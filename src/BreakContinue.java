@@ -14,14 +14,14 @@ public class BreakContinue {
 				break; //when i=5 true then it will break the loop
 			}
 			else if(i==3) {
-				System.out.println("3 is found"); //4 is less than 5 so it will reach i=4.So it will will true before i=5
+				System.out.println("3 is found"); 
 			    continue;
 			}
 			else if(i==2) {
-				System.out.println("2 is found"); //8 is greater than 5 so loop will stop when i=5	
+				System.out.println("2 is found"); 
 			}
 			else if(i==4) {
-				System.out.println("4 is found"); //8 is greater than 5 so loop will stop when i=5	
+				System.out.println("4 is found"); 
 			    continue;
 			}
 			else
