@@ -11,7 +11,7 @@ public class BreakContinue {
 		for(int i=0;i<10;i++) {
 			if(i==7) {
 				System.out.println("7 is found and it will stop the program");
-				break; //when i=5 true then it will break the loop
+				break; 
 			}
 			else if(i==3) {
 				System.out.println("3 is found"); 
